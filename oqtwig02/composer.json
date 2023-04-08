@@ -1,0 +1,15 @@
+{
+    "name": "erika/oqtwig02",
+    "autoload": {
+        "psr-4": {
+            "Erika\\Oqtwig02\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erika",
+            "email": "erika.ike@outlook.fr"
+        }
+    ],
+    "require": {}
+}
